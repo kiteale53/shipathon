@@ -1,6 +1,7 @@
 import streamlit as st
 import re
 import os
+pip install sentence-transformers
 from pathlib import Path 
 from sentence_transformers import SentenceTransformer, util
 import shutil
